@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+    text-align: center;
+}
+h1{
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+}
+a{
+    color: aquamarine;
+    font-size: 16px;
+}
+video{
+    text-align: center;
+}
+p{
+    font-family: Verdana;
+    font-size: 21px;
+    color: grey;
+
+}
+img.camp{
+    margin-bottom: 20px;
+}
